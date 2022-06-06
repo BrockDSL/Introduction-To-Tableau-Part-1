@@ -1,16 +1,17 @@
-Add in the workshop image here 
-
-![Tool Logo](Image filename)
+![Tool Logo](Intro-Tableau.jpg)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+# Introduction to Tableau Part 1
+This workshop will introduce the most basic functions of Tableau Public such as connecting to a dataset, navigating the workspace, and how to build basic data visualizations.
 
 ----
 
 ## Setup Instructions
-In preparation for this workshop, you will need...
+In preparation for this workshop, you will need to download and install the latest version of Tableau Public which can be done using the link below.
+  
+[Download Tableau Public](https://public.tableau.com/s/download/public/pc64)
 
+You will also need to download the two excel workbooks found
 Include:
  - All software that needs to be downloaded
  - Any accounts that will need to be made including links to the sign up pages for those accounts
