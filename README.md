@@ -4,6 +4,10 @@
 # Introduction to Tableau Part 1
 This workshop will introduce the most basic functions of Tableau Public such as connecting to a dataset, navigating the workspace, and how to build basic data visualizations.
 
+No prior experience with Tableau is needed for this workshop.
+
+*Estimated workshop length: 1.5 hours*
+
 ----
 
 ## Setup Instructions
